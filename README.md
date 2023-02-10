@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arth
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning web-development
+- 🧠 I’m currently learning web-development
 - 📫 How to reach me:
 Discord: arth#5811
 <!---
